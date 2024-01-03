@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction to JSON",
+      "description": "Learn the basics of JSON (JavaScript Object Notation), a lightweight data-interchange format. JSON is easy to read and write, making it a popular choice for data exchange between servers and web applications.",
+      "likesCount": 120
+    },
+    {
+      "id": 2,
+      "title": "Web Development Tips",
+      "description": "Explore useful tips for web developers, covering topics such as responsive design, performance optimization, and the latest trends in front-end and back-end development.",
+      "likesCount": 85
+    },
+    {
+      "id": 3,
+      "title": "JavaScript ES6 Features",
+      "description": "Discover the powerful features introduced in ECMAScript 2015 (ES6) that enhance JavaScript's functionality. Learn about arrow functions, template literals, destructuring, and more.",
+      "likesCount": 230
+    },
+    {
+      "id": 4,
+      "title": "Data Science Applications",
+      "description": "Explore real-world applications of data science, including predictive analytics, machine learning, and data visualization. Understand how data science is transforming various industries.",
+      "likesCount": 150
+    },
+    {
+      "id": 5,
+      "title": "Mobile App Development Trends",
+      "description": "Stay updated on the latest trends in mobile app development. From cross-platform frameworks to innovative user interfaces, discover what's shaping the future of mobile applications.",
+      "likesCount": 180
+    },
+    {
+      "id": 6,
+      "title": "Cybersecurity Best Practices",
+      "description": "Enhance your cybersecurity knowledge with best practices for securing digital assets. Explore topics like encryption, multi-factor authentication, and strategies for protecting sensitive data.",
+      "likesCount": 95
+    }
+  ]
+}
