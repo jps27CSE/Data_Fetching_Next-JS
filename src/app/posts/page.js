@@ -1,6 +1,6 @@
 const PostPage = async () => {
   const response = await fetch("http://localhost:5000/posts", {
-    next: { revalidate: 5 },
+    cache: "no-store",
   });
   const posts = await response.json();
   console.log(posts);
